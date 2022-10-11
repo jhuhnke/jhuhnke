@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jessica</h1>
+<h1 align="center">Hi, I'm Jessica 👋</h1>
 <h3 align="center">A data engineer passionate about crypto</h3>
 
 <p align="left"> <a href="https://twitter.com/web3_analyst" target="blank"><img src="https://img.shields.io/twitter/follow/web3_analyst?logo=twitter&style=for-the-badge" alt="web3_analyst" /></a> </p>
