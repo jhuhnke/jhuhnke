@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/web3_analyst" target="blank"><img src="https://img.shields.io/twitter/follow/web3_analyst?logo=twitter&style=for-the-badge" alt="web3_analyst" /></a> </p>
 
-- 🔭 I’m currently working on [data pipelining @ Flipside Crypto](https://github.com/FlipsideCrypto)
+- 🔭 I’m currently working on [data pipelining @ Flipside Crypto](https://github.com/FlipsideCrypto) & Osmosis Data Tooling
 
 - 🌱 I’m currently learning **Rust & CosmWasm**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **IBC and Solana data structure**
 
-- 📫 How to reach me **huhnkejessica@gmail.com**
+- 📫 How to reach me **huhnkejessica@gmail.com** or [on Twitter](https://twitter.com/web3_analyst)
 
 - ⚡ Fun fact **I am the niftiest nana**
 
