@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@web3_analyst](https://medium.com/@web3_analyst)
 
-- 💬 Ask me about **IBC and Solana data structure or Python Shiny**
+- 💬 Ask me about **Cosmos Data**
 
 - 📫 How to reach me **huhnkejessica@gmail.com** or [on Twitter](https://twitter.com/web3_analyst)
 
