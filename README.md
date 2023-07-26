@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/web3_analyst" target="blank"><img src="https://img.shields.io/twitter/follow/web3_analyst?logo=twitter&style=for-the-badge" alt="web3_analyst" /></a> </p>
 
-- 🔭 I’m currently working on [data engineering & dev rel](https://github.com/FlipsideCrypto) & Data Tooling for the Cosmos Ecosystem
+- 🔭 I’m currently working on web3 media storage applications
 
 - 🌱 I’m currently learning **Rust & CosmWasm**
 
