@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Jessica 👋</h1>
-<h3 align="center">A data engineer passionate about crypto</h3>
+<h3 align="center">A dev passionate about crypto</h3>
 
 <p align="left"> <a href="https://twitter.com/web3_analyst" target="blank"><img src="https://img.shields.io/twitter/follow/web3_analyst?logo=twitter&style=for-the-badge" alt="web3_analyst" /></a> </p>
 
-- 🔭 I’m currently working on web3 media storage applications
+- 🔭 I’m currently working on web3 institutional staking infrastructure
 
-- 🌱 I’m currently learning **Rust & CosmWasm**
+- 🌱 I’m currently improving my **ETH & Solana Smart Contracting Skills**
 
 - 📝 I regularly write articles on [https://medium.com/@web3_analyst](https://medium.com/@web3_analyst)
 
-- 💬 Ask me about **Cosmos Data**
+- 💬 Ask me about **Solana or Cosmos data engineering**
 
 - 📫 How to reach me **huhnkejessica@gmail.com** or [on Twitter](https://twitter.com/web3_analyst)
 
