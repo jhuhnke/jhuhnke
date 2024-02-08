@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on web3 institutional staking infrastructure
 
-- 🌱 I’m currently improving my **ETH & Solana Smart Contracting Skills**
+- 🌱 I’m currently improving my **Move Language Skillz**
 
 - 📝 I regularly write articles on [https://medium.com/@web3_analyst](https://medium.com/@web3_analyst)
 
-- 💬 Ask me about **Solana or Cosmos data engineering**
+- 💬 Ask me about **Solana data engineering**
 
 - 📫 How to reach me **huhnkejessica@gmail.com** or [on Twitter](https://twitter.com/web3_analyst)
 
