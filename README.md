@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Jessica 👋</h1>
-<h3 align="center">A dev passionate about crypto</h3>
+<h3 align="center">Head of Product At GlobalStake & SOL / SUI builder</h3>
 
 <p align="left"> <a href="https://twitter.com/web3_analyst" target="blank"><img src="https://img.shields.io/twitter/follow/web3_analyst?logo=twitter&style=for-the-badge" alt="web3_analyst" /></a> </p>
 
-- 🔭 I’m currently working on making SUI degen harder 
+- 🔭 I’m currently working on a stealth mode SUI NFT utilities project 
 
 - 🌱 I’m currently deepening my understanding of **open-source databases**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **huhnkejessica@gmail.com** or [on Twitter](https://twitter.com/web3_analyst)
 
-- ⚡ Fun fact **I am the niftiest nana**
+- ⚡ Fun fact **I'm training for a half ironman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
