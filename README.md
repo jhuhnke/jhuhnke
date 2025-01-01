@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/web3_analyst" target="blank"><img src="https://img.shields.io/twitter/follow/web3_analyst?logo=twitter&style=for-the-badge" alt="web3_analyst" /></a> </p>
 
-- 🔭 I’m currently working on a stealth mode SUI NFT utilities project 
+- 🔭 I’m currently working on a stealth mode SUI NFT utilities project & curating a SUI data community 
 
 - 🌱 I’m currently deepening my understanding of **open-source databases**
 
