@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jessica 👋</h1>
-<h3 align="center">Head of Product At GlobalStake & SOL / SUI builder</h3>
+<h3 align="center">Head of Product At GlobalStake & SUI builder</h3>
 
 <p align="left"> <a href="https://twitter.com/web3_analyst" target="blank"><img src="https://img.shields.io/twitter/follow/web3_analyst?logo=twitter&style=for-the-badge" alt="web3_analyst" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me to **Show you my nodes**
 
-- 📫 How to reach me **huhnkejessica@gmail.com** or [on Twitter](https://twitter.com/web3_analyst)
+- 📫 How to reach me **huhnkejessica@gmail.com** or [on X](https://twitter.com/web3_analyst)
 
 - ⚡ Fun fact **I'm training for a half ironman**
 
