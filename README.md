@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Jessica 👋</h1>
 <h3 align="center">I like to build cool things</h3>
+<h3 align="center">FIND ME AT MTNDAO</h3>
 
 <p align="left"> <a href="https://twitter.com/web3_analyst" target="blank"><img src="https://img.shields.io/twitter/follow/web3_analyst?logo=twitter&style=for-the-badge" alt="web3_analyst" /></a> </p>
 
