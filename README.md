@@ -25,6 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/web3analyst"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="web3analyst" /></a></p><br><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhuhnke&show_icons=true&locale=en" alt="jhuhnke" /></p>
-
